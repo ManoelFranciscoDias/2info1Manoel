@@ -1,4 +1,4 @@
-# projeto integrador II
+# Projeto Integrador II
 
 ## Integrantes
 
